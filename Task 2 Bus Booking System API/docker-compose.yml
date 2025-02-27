@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  mongo:
+    image: mongo:latest
+    container_name: mongo_db
+    restart: always
+    ports:
+      - "27018:27017"
+    networks:
+      - backend_network
+
+  backend:
+    build: .
+    container_name: bus_booking_api
+    restart: always
+    ports:
+      - "8000:5000"
+    depends_on:
+      - mongo
+    environment:
+      MONGO_URI: "mongodb://mongo:27017/busBookingDB"
+    networks:
+      - backend_network
+
+networks:
+  backend_network:
+    driver: bridge
