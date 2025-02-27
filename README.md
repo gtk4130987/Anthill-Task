@@ -8,7 +8,7 @@
 ### Task - 1  
 [Task 1 Video Demo](https://drive.google.com/file/d/1DNYk5ONiAJPi3yS0JwwCeqLRMvYbdK3C/preview)  
 
-## Task - 1  Hosted Link 🌐
+## Task - 1  Hosted Link 🌐 (Admin Credentials: Email - admin@email.com & Password - 190681)
 [Task 1 Hosted](https://second-hand-car-buy-sell.web.app/)  
 
 
