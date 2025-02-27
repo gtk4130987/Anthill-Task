@@ -8,9 +8,11 @@
 ### Task - 1  
 [Task 1 Video Demo](https://drive.google.com/file/d/1DNYk5ONiAJPi3yS0JwwCeqLRMvYbdK3C/preview)  
 
-## API Documentation 📜  
+## Task - 1  Hosted Link 🌐
+[Task 1 Hosted](https://second-hand-car-buy-sell.web.app/)  
 
-### Postman Documentation  
+
+## API Postman Documentation 📜    
 
 [PostMan Documentations](https://documenter.getpostman.com/view/42514790/2sAYdfrWwX) 
 
